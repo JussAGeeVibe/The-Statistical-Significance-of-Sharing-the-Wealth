@@ -18,4 +18,8 @@ I sought to determine statistical significance with suicides from generation to 
 
 I used various non-parametric tests to test the hypothesis including but not limited to Mann-Whitney tests and Kruskal-Wallis tests.
 
-Used Python and MatPlotLib to visualize the findings. 
+Used Python and SciPy to A/B test the features and MatPlotLib to visualize the findings. 
+
+
+The project is intended to shed light on a growing global mental health issue. There is a correlation between rising GDP and HDI scores and an increase in suicide totals. Each subsequent generation handles suicide worse than the previous with rising totals. 
+
